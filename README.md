@@ -1,6 +1,4 @@
 # SocialMediaMining
-Project
-# political-media-mining
 This project presents a supervised
 machine learning approach to predict whether a tweet is
 politically biased or neutral. The approach uses a labeled
